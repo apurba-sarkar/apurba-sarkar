@@ -78,6 +78,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/apurba-sarkar/apurba-sarkar/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/apurba-sarkar/apurba-sarkar/output/snake.svg" alt="Snake animation" />
 
 ###
