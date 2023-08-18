@@ -44,8 +44,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -69,8 +67,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="vpowerbi logo"  />
   <img width="12" />
   <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" height="30" alt="plsql logo"  />
-  <img width="12" />
-  <img src="https://cdn.mos.cms.futurecdn.net/mHzNZqeArjYfD2NoJLu9Ag-970-80.jpg.webp" height="30" alt="figma logo"  />
+
 </div>
 
 ###
