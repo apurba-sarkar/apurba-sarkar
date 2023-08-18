@@ -69,6 +69,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="vpowerbi logo"  />
   <img width="12" />
   <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" height="30" alt="plsql logo"  />
+  <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon.png" height="30" alt="plsql logo"  />
 </div>
 
 ###
