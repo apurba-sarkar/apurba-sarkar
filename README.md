@@ -67,6 +67,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="vpowerbi logo"  />
+  <img width="12" />
+  <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" height="30" alt="plsql logo"  />
 </div>
 
 ###
