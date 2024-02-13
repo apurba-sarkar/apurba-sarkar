@@ -67,6 +67,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="vpowerbi logo"  />
   <img width="12" />
   <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" height="30" alt="plsql logo"  />
+  <img width="12" />
+  <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg](https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" height="30" alt="tanstackquery logo"  />
 
 </div>
 
