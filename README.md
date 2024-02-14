@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Apurba Sarkar and I'm a Full Stack Developer from India.<br>Select * from people where 'someone' like 'you'</h2>
+<h2 align="center">Hi 👋! My name is Apurba Sarkar and I'm a Full Stack WEB & NATIVE Developer  from India.<br>Select * from people where 'someone' like 'you'</h2>
 
 ###
 
